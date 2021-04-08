@@ -1,1 +1,1 @@
-# netork-architecture
+# network-architecture
